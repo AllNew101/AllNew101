@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AllNew101
+- 👋 Hi, We are from @AllNew101
 - 👀 I’m interested in Robotics in First Tech Challenge.
 - 🌱 I’m currently learning in Assumption College Lampang.
 - 📫 How to reach me at IG:Allnew101.
-- 😄 Pronouns: they/them.
 - ⚡ Fun fact: IDK -_-
 
 <!---
